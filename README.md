@@ -7,7 +7,7 @@ Weekly updates of team members
 ##Fork & Pull Steps for Github
 
 ###Step 1
-Go to this link: https://github.com/prango/Azad-updates
+Go to this link: https://github.com/azad1-repo/weekly-updates
 On top right you will see Fork option, Click on it.
 
 ###Step 2
