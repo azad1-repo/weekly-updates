@@ -1,4 +1,4 @@
 *) Currently working on EEPROM interfacing ,ie, connecting external EEPROM to the MCU. 
 
 *) The problem that is being faced by us is how to distribute(or allocate) memory in such a way that 
-   we can obtain the addresses of EEPROM(master),MCU(slave) and data.
+   we can obtain the addresses of EEPROM(slave),MCU(master) and data.
