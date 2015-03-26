@@ -1,6 +1,8 @@
 Azad-updates
 ============
 
+[![Join the chat at https://gitter.im/azad1-repo/weekly-updates](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/azad1-repo/weekly-updates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ##Fork & Pull Steps for Github 
 
 ###Step 1
